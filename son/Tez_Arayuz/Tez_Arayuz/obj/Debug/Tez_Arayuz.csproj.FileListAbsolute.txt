@@ -1,0 +1,11 @@
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\bin\Debug\Tez_Arayuz.exe.config
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\bin\Debug\Tez_Arayuz.exe
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\bin\Debug\Tez_Arayuz.pdb
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.csprojAssemblyReference.cache
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.Form1.resources
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.Properties.Resources.resources
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.csproj.GenerateResource.cache
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.csproj.CoreCompileInputs.cache
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.exe
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.pdb
+D:\PAÜ DERS\TEZ\Projeler\son\Tez_Arayuz\Tez_Arayuz\obj\Debug\Tez_Arayuz.Fr_main.resources
