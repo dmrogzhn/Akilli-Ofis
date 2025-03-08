@@ -34,7 +34,8 @@ Bu sayede ofis rutinleri tahmin edilerek çalışanların konfor seviyeleri art�
 
 Aşağıda modelin karışıklık matrisi (confusion matrix) verilmiştir:
 
-![Confusion Matrix](yz1_confusion.png)
+![yz1_confusion](https://github.com/user-attachments/assets/648ae1f5-0fad-4655-81a2-bbdd0b670826)
+
 
 ## Kullanılan Teknolojiler
 - **Python** (Makine Öğrenimi Modeli)
