@@ -25,7 +25,7 @@ Bu parametreler, Kaggle gibi platformlardan toplanan veriler ile eğitilmiştir.
 
 Bu sayede ofis rutinleri tahmin edilerek çalışanların konfor seviyeleri artırılır ve verimlilik yükseltilir.
 
-## Model Başarım Sonuçları
+## Model Başarı Sonuçları
 
 İlk modelin başlangıçta aldığı doğruluk oranı **%71** iken;
 - Verilerin düzenlenmesi ve temizlenmesi,
@@ -64,15 +64,6 @@ Aşağıda modelin karışıklık matrisi (confusion matrix) verilmiştir:
 - Tek bir tablo vardır ve bu tablo duygu tahminleri ile ofis ortamı ayarlarını saklamaktadır.
 - **SQL yalnızca arayüz için gereklidir**, Python projeleri kendi aralarında veri alışverişi yapmaktadır.
 
-## Dosya Yapısı
-```
-/Akilli-Ofis
-  ├── son/
-  │   ├── Tez Arayüz/  # C# Form Uygulaması
-  │   ├── model.py     # Python Yapay Zeka Modeli
-  │   ├── yz1_confusion.png  # Confusion Matrix Görseli
-  │   ├── ...
-```
 
 ## Katkıda Bulunma
 Eğer projeye katkıda bulunmak isterseniz, pull request gönderebilirsiniz! Görüş ve önerileriniz için issue açabilirsiniz.
